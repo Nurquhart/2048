@@ -1,0 +1,60 @@
+table, th, td {
+    border: 5px solid #606060;
+    border-collapse: collapse;
+    text-align:center;
+    table-layout: fixed;
+    width: 90px;
+    height: 90px;
+
+    margin-left:auto; 
+    margin-right:auto;
+
+    font-size: 30px;
+    background-color: #A0A0A0;
+    color: crimson;
+    
+   
+  }
+div {
+    text-align: center;
+}
+
+
+body {
+    background-color: #fcefdf;
+}
+
+button {
+    border-radius: 12px;
+    font-size: 25px;
+    background-color: #A0A0A0;
+    color: black;
+    transition-duration: 0.4s;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    
+}
+button:hover {
+    background-color: crimson;
+    color: white;
+  }
+
+.over {
+    color: crimson;
+}
+.win {
+    color: crimson;
+}
+
+#title {
+    font-size: 65px;
+    
+}
+
+p {
+    font-size: 30px;
+}
